@@ -28,6 +28,7 @@ body {
 
 .page__heading {
   width: 739px;
+  margin: 0 auto;
   font-size: 116px;
   font-weight: 800;
   line-height: 136.18px;
